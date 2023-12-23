@@ -1,5 +1,5 @@
 # Kamailio 5.x
-## w/ Kubernetes fixes & manifests
+## Kubernetes fixes & manifests (not yet)
 [![Docker Pulls](https://img.shields.io/docker/pulls/underport/kamailio.svg)](https://hub.docker.com/r/pkecastillo/kamailio) [![Github Repo](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/underport/kamailio)
 
 
